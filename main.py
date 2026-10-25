@@ -45,11 +45,11 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration FROM .env FILE ---
-TOKEN = os.getenv('TOKEN', '8615734808:AAFU0Vu9oANmJMRICrGyTz-Kdh_GJigaiag')
+TOKEN = os.getenv('TOKEN', '8615734808:AAGPLPhXvrY3G8bWNHMoB9XCXT7W8s1cvLE')
 OWNER_ID = int(os.getenv('OWNER_ID', 6661878423))
 ADMIN_ID = int(os.getenv('ADMIN_ID', 6661878423))
 YOUR_USERNAME = os.getenv('YOUR_USERNAME', 'CYBER_HERER')
-UPDATE_CHANNEL = os.getenv('UPDATE_CHANNEL', 'https://t.me/CYBER_HEREEE')
+UPDATE_CHANNEL = os.getenv('UPDATE_CHANNEL', 'https://t.me/MEW_MEWAAA')
 
 # Limits from .env or defaults
 FREE_USER_LIMIT = int(os.getenv('FREE_USER_LIMIT', 3))
